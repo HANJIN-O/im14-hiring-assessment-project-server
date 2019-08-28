@@ -1,0 +1,11 @@
+{
+  "name": "im14-hiring-project-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HANJIN-O/im14-hiring-assessment-project-server",
+  "author": "HAN-O <zeros0623@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
